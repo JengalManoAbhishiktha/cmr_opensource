@@ -30,6 +30,7 @@ int binarySearch(int arr[], int low, int high, int x)
 		else
 			high = mid - 1; 
 	} 
+shwdn
 
 	// If the base case is reached, the element is not 
 	// present in the array, return -1 
